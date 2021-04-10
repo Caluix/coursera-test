@@ -4,4 +4,4 @@ Coursera course: [HTML, CSS, and Javascript for Web Developers](https://www.cour
 
 ### Module 2 Coding Assignment
 
-Solution: [Link to my code solution](module2-solution/index.html)
+Solution: [Link to my code solution](module2-solution/)
