@@ -9,3 +9,7 @@ Solution: [Link to my code solution](module2-solution/)
 ### Module 3 Coding Assignment
 
 Solution: [Link to my code solution](module3-solution/)
+
+### Module 4 Coding Assignment
+
+Solution: [Link to my code solution](module4-solution/)
